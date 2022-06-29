@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "example-nodejs-template"
+spec:
+  type: service
+  owner: josh-wong
+  lifecycle: experimental
